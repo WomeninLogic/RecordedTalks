@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="en">
+    <head>
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Chivo:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<meta name="description" content="Website curating talks by women in logic!" />
+
+
+<meta property="og:title" content="Talks by Women in Logic">
+<meta property="og:site_name" content="Talks by Women in Logic">
+<meta property="og:type" content="website">
+<meta property="og:image" content="img/metacard.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@womeninlogic">
+<meta name="twitter:creator" content="@womeninlogic">
+<meta name="twitter:title" content="Talks by Women in Logic">
+<meta name="twitter:image" content="img/metacard.png">
+<title>Talks by Women in Logic</title>
+<style>
+
+* {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+
+        background: #FCFFFA;
+        color: #333;
+        font-family: Lora, Georgia, serif;
+    }
+
+    ::selection, ::-webkit-selection {
+        background: #83B553;
+        color: white;
+
+    }
+
+    .card {
+
+        padding: 0.5rem;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(0, 0, 0, 0.005), 0px 2px 10px rgba(0, 0, 0, 0.025);
+        border-radius: 10px;
+
+    }
+
+    #main {
+        display: flex;
+        flex-flow: row;
+        padding: 4rem;
+        padding-bottom: 2rem;
+        margin: 0 auto;
+        max-width: 940px;
+        align-items: center;
+        justify-items: center;
+        align-content: center;
+        justify-content: center;
+
+    }
+
+    #main .logo {
+
+        display: block;
+        margin-right: 2rem;
+        width: 200px;
+        height: 150px;
+
+    }
+
+    .logo img {
+        width: 200%;
+        transform-origin: top left;
+        scale: 0.5;
+    }
+
+    #main h1 {
+        font-size: clamp(1rem, 8vw, 4rem);
+        font-weight: bold;
+        color: #83B553;
+        line-height: 120%;
+    
+    }
+
+    #main span {
+        display: block;
+        font-size: clamp(0.75rem, 6vw, 3rem);
+        font-weight: normal;
+        color: #333;
+    }
+
+    #main em {
+        font-style: normal;
+        font-weight: bold;
+    }
+
+    #main .tagline {
+        font-size: clamp(0.3rem, 2.5vw, 1.25rem);
+        line-height: clamp(2rem, 5vw, 3rem);
+    }
+
+    #main .tagline em {
+        font-style: italic;
+        font-weight: normal;
+    }
+
+    #view-selector {
+        display: flex;
+        flex-flow: row;
+        font-size: 1.5rem;
+        margin: 2rem auto;
+        max-width: 720px;
+        justify-content: center;
+        margin-bottom: 4rem;
+    }
+
+    #view-selector .selector-icon {
+        width: 32px;
+        height: 32px;
+        margin-right: 1rem;
+    }
+
+    #view-selector div {
+        padding: 1.5rem;
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        sition: 0.25s ease-in-out slate;
+    }
+
+    #view-selector div:active {
+
+        slate: 0px 2px;
+
+    }
+
+    #view-selector div:hover {
+        color: #83B553;
+        cursor: pointer;
+    }
+
+    .grid-mode .list-view.card {
+        background: sparent;
+        box-shadow: none;
+    }
+
+    .list-mode .grid-view.card {
+        background: sparent;
+        box-shadow: none;
+    }
+
+
+    .grid-mode #talk-list .card {
+        padding: 1rem;
+        max-width: 450px;
+        box-sizing: border-box;
+        padding-bottom: 2rem;
+        height: 640px;
+    }
+
+    .grid-mode #talk-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+        flex-wrap: wrap;
+        align-items: center;
+        justify-items: center;
+        max-width: 940px;
+        margin: 0 auto;
+        grid-gap: 20px;
+    }
+
+    .grid-mode #talk-list .card h3 {
+        font-weight: bold;
+        font-size: 1.5rem;
+        line-height: 2rem;
+        margin-right: 2rem;
+        padding-bottom: 1rem;
+        
+
+    }
+
+    .grid-mode #talk-list.card time {
+        font-family: "Chivo", Helvetica, sans-serif;
+    }
+
+    .grid-mode #talk-list .card .video-thumbnail img {
+
+        max-width: 420px;
+        object-fit: cover;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .grid-mode #talk-list .card .description {
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+    position: relative;
+    width: 400px;
+    line-height: 1.75rem;
+    -webkit-line-clamp: 5;
+    overflow: hidden;
+    }
+
+    .grid-mode #talk-list .date-and-author {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        width: 100%;
+        justify-content: space-between;
+        margin: 1rem 0;
+    }
+
+    .grid-mode #talk-list .talk-link, .list-mode #talk-list .talk-link {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .grid-mode #talk-list .avatar {
+
+        max-width: 80px;
+        max-height: 80px;
+
+    }
+
+    .grid-mode #talk-list .author {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .avatar img {
+
+       width: 100%;
+       height: auto;
+
+    }
+
+    .author {
+        text-decoration: none;
+        color: inherit;
+
+    }
+
+    .grid-mode .author p {
+        font-weight: bold;
+    }
+
+    .list-mode .description {
+        display: none;
+    }
+
+    .list-mode #talk-list {
+
+        display: flex;
+        flex-flow: column;
+        margin: 0 auto;
+        max-width: 940px;
+
+    }
+
+    .list-mode .video-thumbnail img {
+        width: 150px;
+        height: auto;
+        border-radius: 8px;
+    }
+
+    .list-mode .author .avatar {
+        max-width: 80px;
+        display: flex;
+        align-items: center;
+    }
+
+    .list-mode .author {
+        display: flex;
+        flex-flow: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .list-mode #talk-list .card {
+        display: flex;
+        align-items: center;
+        align-content: center;
+        max-width: 940px;
+        margin: 0.5rem 1rem;
+        flex-wrap: wrap;
+    }
+
+    .list-mode .date-and-author {
+        display: flex;
+        flex-flow: row;
+    }
+
+
+    .list-mode .date-and-author .title-and-date {
+
+        font-size: clamp(0.5vw, 3vw, 1rem);
+        margin: 0 2rem;
+        width: clamp(100px, 20vw, 300px);
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .list-mode .date-and-author {
+        display: flex;
+        align-items: center;
+    }
+
+    .list-mode .author p {
+        padding: 0 0.5rem;
+    }
+
+    .list-mode .author img {
+
+        height: 80px;
+        width: 80px;
+
+    }
+
+    footer {
+        max-width: 940px;
+        margin: 0 auto;
+        padding: 4rem;
+        display: flex;
+        justify-content: center;
+    }
+
+</style>
+</head>
+
+<body>
+
+    <header id="main">
+        <div class="logo"><img src="img/women-in-logic-talks-logo.svg" alt="Women in logic talks logo"></div>
+        <div>
+        <h1>
+            <span><em>Talks</em> by</span> Women in Logic
+        </h1>
+        <p class="tagline">Curated by Valeria de Paiva <em>&</em> friends</p>
+    </div>
+    </header>
+
+    <div id="content" class="grid-mode">
+        <div id="view-selector">
+            <div class="grid-view card">
+                <img src="img/grid-icon.svg" alt="Icon for grid" class="selector-icon">
+                <p>Grid</p>
+            </div>
+            <div class="list-view card">
+                <img src="img/list-icon.svg" alt="Icon for list" class="selector-icon">
+                <p>List</p>
+            </div>
+        </div>
+        <div id="talk-list"></div>
+    </div>
+
+    <footer>
+        <p>Women in Logic • 2016 – 2022</p>
+    </footer>
+
+    <script src="z.js"></script>
+    <script src="ui.js"></script>
+
+</body>
+
+</html>

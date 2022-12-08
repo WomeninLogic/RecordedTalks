@@ -1,0 +1,37 @@
+[
+    {
+    "title": "Some reflections on the history of connexive logic",
+    "talk_link": "https://www.youtube.com/watch?v=U1gQterS0bE",
+    "date": "26 October 2022",
+    "author":"Sara L. Uckelman",
+    "author_image": "sara-uckelman.png",
+    "author_link": "https://sluckelman.webspace.durham.ac.uk/",
+    "description": "Talk on the history of connexive logic"
+},
+
+{"title": "The logic of social influence in networks",
+"talk_link": "https://www.youtube.com/watch?v=pY2m_nSDkEQ",
+"date": "17 March 2022",
+"author": "Zoé Christoff",
+"author_image": "zoe-christoff.png",
+"author_link": "https://zoechristoff.com",
+"description": "This talk gives an introduction to the use of logical tools in understanding social influence and social networks phenomena."},
+
+{"title": "Contextual Types, Explained",
+"talk_link": "https://www.youtube.com/watch?v=_rLozbg4PvI",
+"author": "Brigitte Pientka",
+"date": "10 July 2020",
+"author_image": "brigitte-pientka.png",
+"author_link": "https://www.cs.mcgill.ca/~bpientka/",
+"description": "Talk on contextual types"
+},
+
+{"title": "Ecumenical systems: from natural deduction with stoup to pure modal systems",
+"talk_link": "https://www.youtube.com/watch?v=sgfNpBTjSeU",
+"author": "Elaine Pimentel",
+"date": "19 April 2022",
+"author_image": "elaine-pimentel.png",
+"author_link": "https://sites.google.com/site/elainepimentel/",
+"description": "A talk on an approach adapting Girard’s stoup mechanism to natural deduction."}
+
+]
