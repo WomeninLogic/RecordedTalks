@@ -8,7 +8,7 @@ This updates the webpage in https://womeninlogic.github.io/RecordedTalks/ when i
 
 ## Contributing
 
-To contribute a talk to the repo, go to the data.json file and add an entry with the following details:
+To contribute a talk to the repo, go to the [data.json](https://github.com/WomeninLogic/RecordedTalks/blob/main/data.json) file and add an entry with the following details:
 
 ```
 {"title": "Title of the Talk",
