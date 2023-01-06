@@ -10,8 +10,12 @@ const talkGridView = (data) => {
         description = "No description provided"} = data;
 
         if(talk_link) {
-            video_id = talk_link.split("watch?v=")[1];
+            
+            video_url_regex = /v=([\w\-\_]+)/;
+            video_id_matches = talk_link.match(video_url_regex);
+            video_id = video_id_matches ? video_id_matches[1] : talk_image;
             talk_image = `https://img.youtube.com/vi/${video_id}/maxresdefault.jpg`;
+
         };
 
         const avatar_dir = "img/avatars/";
