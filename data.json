@@ -120,8 +120,7 @@
 "date": "7 Apr 2021",
 "author_image": "assia-mahboubi.png",
 "author_link": "http://people.rennes.inria.fr/Assia.Mahboubi/",
-"description": "This talk discusses recent techniques proposed to 
-design hierarchies in proof assistants based on dependent type theory."},
+"description": "This talk discusses design hierarchies in proof assistants based on dependent type theory."},
 
      {"title": "Simple Proofs",
 "talk_link": "https://www.youtube.com/watch?v=aXx1Nejr9qE",
