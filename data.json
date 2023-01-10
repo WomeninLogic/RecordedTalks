@@ -137,15 +137,15 @@ design hierarchies in proof assistants based on dependent type theory."},
 "date": "22 Nov 2019",
 "author_image": "juliette-kennedy.png",
 "author_link": "http://www.math.helsinki.fi/logic/people/juliette.kennedy/",
-      "description": "This talk  consists of a collection of observations about the crisis in the beginning of the 20th century."},
+      "description": "This talk  consists of observations about the foundational crisis in Mathematics at the beginning of the 20th century."},
 
     
      {"title": "What is Category Theory in mathematics?",
-"talk_link": "https://www.youtube.com/watch?v=22uZqPPwPNo",
+"talk_link": "https://www.youtube.com/watch?v=VdxdQiucJe8",
 "author": "Emily Riehl",
 "date": "",
 "author_image": "emily-riehl.png",
-"author_link": "http://www.math.helsinki.fi/logic/people/juliette.kennedy/",
-      "description": "This talk  consists of a collection of observations about the crisis in the beginning of the 20th century."},
+"author_link": "https://emilyriehl.github.io/",
+      "description": "This talk explores the notion of contractibility as uniqueness and its role in generalizing from ordinary categories to infinite-dimensional categories."}
     
 ]
