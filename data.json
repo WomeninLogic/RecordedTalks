@@ -88,6 +88,64 @@
 "date": "17 May 2022",
 "author_image": "perdita-stevens.png",
 "author_link": "http://perditastevens.com/homepage/",
-"description": "A talk in the Model-Driven Engineering (MDE) network about biderectional transformations."}
+      "description": "A talk in the Model-Driven Engineering (MDE) network about biderectional transformations."},
 
+        {"title": "An algebraic framework to reason about concurrency",
+"talk_link": "https://www.youtube.com/watch?v=uqMQGL2TBEo",
+"author": "Alexandra Silva",
+"date": "8 Mar 2022",
+"author_image": "alexandra-silva.png",
+"author_link": "https://alexandrasilva.org/#/main.html",
+	 "description": "A talk about Kleene algebras with tests (KAT)."},
+
+     {"title": "Information Structures for Privacy and Fairness",
+"talk_link": "https://www.youtube.com/watch?v=FnwEkypluT0",
+"author": "Catuscia Palamidessi",
+"date": "11 Aug 2022",
+"author_image": "catuscia-palamidessi.png",
+"author_link": "http://www.lix.polytechnique.fr/~catuscia/",
+      "description": "An invited talk FLoC 2022."},
+
+ {"title": "Inteligência Artificial: Uma evolução tecnológica e intelectual ",
+"talk_link": "https://www.youtube.com/watch?v=RKyPvOlRZeM",
+"author": "Renata Wasserman",
+"date": "13 Dec 2018",
+"author_image": "renata-wasserman.png",
+"author_link": "https://www.ime.usp.br/~renata/",
+  "description": "Quais são os dilemas éticos e filosóficos associados a Inteligência Artificial?"},
+
+ {"title": "Mathematical Structures in Dependent Type Theory",
+"talk_link": "https://www.cl.cam.ac.uk/events/owls/",
+"author": "Assia Mahboubi",
+"date": "7 Apr 2021",
+"author_image": "assia-mahboubi.png",
+"author_link": "http://people.rennes.inria.fr/Assia.Mahboubi/",
+      "description": "This talk discusses  recent techniques proposed to 
+design hierarchies in proof assistants based on dependent type theory."},
+
+     {"title": "Simple Proofs",
+"talk_link": "https://www.youtube.com/watch?v=aXx1Nejr9qE",
+"author": "Rosalie Iemhoff",
+"date": "3-5 Apr 2013",
+"author_image": "rosalie-iemhoff.png",
+"author_link": "https://www.uu.nl/staff/RIemhoff/",
+      "description": "This talk  consists of a collection of observations on the notion of simplicity in the setting of proofs."},
+
+     {"title": "The Road to Gödel's Incompleteness Theorems",
+"talk_link": "https://www.youtube.com/watch?v=22uZqPPwPNo",
+"author": "Juliette Kennedy",
+"date": "22 Nov 2019",
+"author_image": "juliette-kennedy.png",
+"author_link": "http://www.math.helsinki.fi/logic/people/juliette.kennedy/",
+      "description": "This talk  consists of a collection of observations about the crisis in the beginning of the 20th century."},
+
+    
+     {"title": "What is Category Theory in mathematics?",
+"talk_link": "https://www.youtube.com/watch?v=22uZqPPwPNo",
+"author": "Emily Riehl",
+"date": "",
+"author_image": "emily-riehl.png",
+"author_link": "http://www.math.helsinki.fi/logic/people/juliette.kennedy/",
+      "description": "This talk  consists of a collection of observations about the crisis in the beginning of the 20th century."},
+    
 ]
