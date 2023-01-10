@@ -13,8 +13,8 @@ const talkGridView = (data) => {
             
             video_url_regex = /v=([\w\-\_]+)/;
             video_id_matches = talk_link.match(video_url_regex);
-            video_id = video_id_matches ? video_id_matches[1] : talk_image;
-            talk_image = `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`;
+            video_id = video_id_matches ? video_id_matches[1];
+            if(video_id != null) talk_image = video_id ? `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`;
 
         };
 
