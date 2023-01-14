@@ -1,14 +1,13 @@
 # Valeria de Paiva Recorded Talks
 
-A place to keep info about Women in Logic https://www.womeninlogic.org/
+A place to keep info about talks I have given.
 
 <br>
 
-This updates the webpage in https://womeninlogic.github.io/RecordedTalks/ when it works.
+This updates the webpage in https://vcvpaiva.github.io/RecordedTalks/ when it works.
 
 ## Contributing
 
-To contribute a talk to the repo, go to the [data.json](https://github.com/WomeninLogic/RecordedTalks/blob/main/data.json) file and add an entry with the following details:
 
 ```
 {"title": "Title of the talk",
