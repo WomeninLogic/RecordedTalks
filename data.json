@@ -15,7 +15,7 @@
 "author": "Valeria de Paiva",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "This talk describes Dialectica Petri Nets, suggested by Carolyn Brown. These nets allow for very different labels on edges and form a model of Linear Logic."},
+"description": "This talk describes Dialectica Petri Nets, suggested by Carolyn Brown. These nets allow for very different labels on edges."},
 
 {"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
 "talk_link": "https://www.youtube.com/watch?v=7pVo-VlJQHI&t=8s",
@@ -26,15 +26,15 @@
 "description": "Carolina Blasio Day"
 },
 
-{"title": "Ecumenical systems: from natural deduction with stoup to pure modal systems",
-"talk_link": "https://www.youtube.com/watch?v=sgfNpBTjSeU",
-"author": "Elaine Pimentel",
-"date": "19 April 2022",
-"author_image": "elaine-pimentel.png",
-"author_link": "https://sites.google.com/site/elainepimentel/",
- "description": "A talk on an approach adapting Girard’s stoup mechanism to natural deduction."},
+{"title": "Going Without: A Linear Modality and FP",
+"talk_link": "https://www.youtube.com/watch?v=7uTsihTketw",
+"author": "Valeria de Paiva",
+"date": "April 2022",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+ "description": "A talk on MSFP on modal types."},
 
-    {"title": "Unveiling the constructive core of classical theories: 90 years of Glivenko’s theorem",
+    {"title": "",
 "talk_link": "https://www.youtube.com/watch?v=osoRkOFKSL8&t=40s",
 "author": "Sara Negri",
 "date": "2 May 2019",
