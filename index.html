@@ -274,7 +274,7 @@
             align-items: center;
         }
 
-        .grid-mode .card p::before, .list-mode .card p::before {
+        .grid-mode #view-selector .card p::before, .list-mode #view-selector  .card p::before {
             margin-right: 0.5rem;
             display: inline-flex;
             align-items: center;
@@ -287,19 +287,19 @@
             background-repeat: no-repeat;
         }
 
-        .grid-mode .grid-view.card p::before, .list-mode .grid-view.card:hover p::before {
+        .grid-mode #view-selector .grid-view.card p::before, .list-mode #view-selector .grid-view.card:hover p::before {
             background-position: -28px 4px;
         }
 
-        .grid-mode .list-view.card p::before {
+        .grid-mode #view-selector .list-view.card p::before {
             background-position: 4px -28px;
         }
 
-        .list-mode .grid-view.card p::before {
+        .list-mode #view-selector .grid-view.card p::before {
             background-position: 4px 4px;
         }
 
-        .list-mode .list-view.card p::before, .grid-mode .list-view.card:hover p::before {
+        .list-mode #view-selector .list-view.card p::before, .grid-mode .list-view.card:hover p::before {
             background-position: -28px -28px;
         }
 
