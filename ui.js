@@ -1,3 +1,10 @@
+const isBigImage = src => new Promise((resolve, reject) => {
+    let img = new Image();
+    img.onload = () => resolve(img.height > 500);
+    img.onerror = reject;
+    img.src = src;
+});
+
 const talkGridView = async (data) => {
 
     let {author = "No Author",
@@ -15,21 +22,17 @@ const talkGridView = async (data) => {
             video_id_matches = talk_link.match(video_url_regex);
             video_id = video_id_matches ? video_id_matches[1] : null;
 
+            let max_res_img = null, hq_default = null;
+
             if(video_id != null) {
 
-                talk_image = `https://img.youtube.com/vi/${video_id}/maxresdefault.jpg`;
+                max_res_img = `https://img.youtube.com/vi/${video_id}/maxresdefault.jpg`;
+                hq_default = `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`;
 
-                try {
+                 let isImageGood = await isBigImage(max_res_img);
 
-                let imageQuery = await fetch(talk_image);
-                if(imageQuery.status == 404) { talk_image = `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`; }
+                talk_image = isImageGood ? max_res_img : hq_default;
 
-                }
-                catch(err) {
-
-                    console.log(err);
-                
-                }
             };
 
         };
@@ -38,8 +41,8 @@ const talkGridView = async (data) => {
 
         const avatar = (author_image == null) ? "img/default-avatar.svg" : avatar_dir + author_image;
 
-    return ["div.card",
-        ["a.video-thumbnail", {href: talk_link},
+    return ["a.card.video-card", {href: talk_link},
+         ["div.video-thumbnail", 
             ["img", {alt: `${title}  by ${author} given on ${date}`, src: talk_image}]],
             ["div.date-and-author",
             ["div.title-and-date",
