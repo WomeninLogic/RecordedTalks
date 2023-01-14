@@ -163,7 +163,7 @@
         }
 
         #view-selector div {
-            padding: 1.5rem;
+            padding: 1rem;
             display: flex;
             flex-flow: row;
             align-items: center;
@@ -266,6 +266,41 @@
         .list-mode #talk-list .talk-link {
             color: inherit;
             text-decoration: none;
+        }
+
+        .grid-mode .grid-view.card, .list-mode .list-view.card {
+            color: #83B553;
+            display: flex;
+            align-items: center;
+        }
+
+        .grid-mode .card p::before, .list-mode .card p::before {
+            margin-right: 0.5rem;
+            display: inline-flex;
+            align-items: center;
+            width: 24px;
+            height: 24px;
+            content: '.';
+            text-indent: -999rem;
+            background: url('img/icons.png');
+            background-size: 200%;
+            background-repeat: no-repeat;
+        }
+
+        .grid-mode .grid-view.card p::before, .list-mode .grid-view.card:hover p::before {
+            background-position: -28px 4px;
+        }
+
+        .grid-mode .list-view.card p::before {
+            background-position: 4px -28px;
+        }
+
+        .list-mode .grid-view.card p::before {
+            background-position: 4px 4px;
+        }
+
+        .list-mode .list-view.card p::before, .grid-mode .list-view.card:hover p::before {
+            background-position: -28px -28px;
         }
 
         .grid-mode .list-view.card {
@@ -429,7 +464,7 @@
             text-decoration: none;
         }
 
-        @media (max-width: 800px) {
+        @media (max-width: 850px) {
 
             .list-mode .video-thumbnail {
                 display: none;
@@ -460,11 +495,9 @@
         </p>
         <div id="view-selector">
             <div class="grid-view card">
-                <img src="img/grid-icon.svg" alt="Icon for grid" class="selector-icon">
                 <p>Grid</p>
             </div>
             <div class="list-view card">
-                <img src="img/list-icon.svg" alt="Icon for list" class="selector-icon">
                 <p>List</p>
             </div>
         </div>
