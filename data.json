@@ -9,13 +9,13 @@
     "description": "A talk about inference in Natural Language"
 },
 
-{"title": "The logic of social influence in networks",
-"talk_link": "https://www.youtube.com/watch?v=pY2m_nSDkEQ",
-"date": "17 March 2022",
-"author": "Zoé Christoff",
-"author_image": "zoe-christoff.png",
-"author_link": "https://zoechristoff.com",
-"description": "This talk gives an introduction to the use of logical tools in understanding social influence and social networks phenomena."},
+{"title": "Dialectica Petri Nets",
+"talk_link": "https://www.youtube.com/watch?v=xysbkS3Jx24",
+"date": "8 March 2022",
+"author": "Valeria de Paiva",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "This talk describes Dialectica Petri Nets, suggested by Carolyn Brown. These nets allow for very different labels on edges and form a model of Linear Logic."},
 
 {"title": "Contextual Types, Explained",
 "talk_link": "https://www.youtube.com/watch?v=_rLozbg4PvI",
