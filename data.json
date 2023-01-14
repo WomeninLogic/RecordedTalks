@@ -17,13 +17,13 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "This talk describes Dialectica Petri Nets, suggested by Carolyn Brown. These nets allow for very different labels on edges and form a model of Linear Logic."},
 
-{"title": "Contextual Types, Explained",
-"talk_link": "https://www.youtube.com/watch?v=_rLozbg4PvI",
-"author": "Brigitte Pientka",
-"date": "10 July 2020",
-"author_image": "brigitte-pientka.png",
-"author_link": "https://www.cs.mcgill.ca/~bpientka/",
-"description": "Talk on contextual types"
+{"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
+"talk_link": "https://www.youtube.com/watch?v=7pVo-VlJQHI&t=8s",
+"author": "Valeria de Paiva",
+"date": "21 March 2022",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Carolina Blasio Day"
 },
 
 {"title": "Ecumenical systems: from natural deduction with stoup to pure modal systems",
