@@ -1,4 +1,4 @@
-const talkGridView = (data) => {
+const talkGridView = async (data) => {
 
     let {author = "No Author",
             title = "No Title",
@@ -14,7 +14,23 @@ const talkGridView = (data) => {
             video_url_regex = /v=([\w\-\_]+)/;
             video_id_matches = talk_link.match(video_url_regex);
             video_id = video_id_matches ? video_id_matches[1] : null;
-            if(video_id != null) talk_image = `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`;
+
+            if(video_id != null) {
+
+                talk_image = `https://img.youtube.com/vi/${video_id}/maxresdefault.jpg`;
+
+                try {
+
+                let imageQuery = await fetch(talk_image);
+                if(imageQuery.status == 404) { talk_image = `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`; }
+
+                }
+                catch(err) {
+
+                    console.log(err);
+                
+                }
+            };
 
         };
 
@@ -48,7 +64,7 @@ const render = async () => {
 
     const data = await (await fetch("./data.json")).json();
 
-    z.render("#talk-list", (data != null) ? data.map(d => talkGridView(d)) : ["p", "No talks found!"]);
+    z.render("#talk-list", (data != null) ? await (Promise.all(data.map((d) => talkGridView(d)))) : ["p", "No talks found!"]);
 
 };
 
