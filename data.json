@@ -1,12 +1,12 @@
 [
     {
-    "title": "Some reflections on the history of connexive logic",
-    "talk_link": "https://www.youtube.com/watch?v=U1gQterS0bE",
-    "date": "26 October 2022",
-    "author":"Sara L. Uckelman",
-    "author_image": "sara-uckelman.png",
-    "author_link": "https://sluckelman.webspace.durham.ac.uk/",
-    "description": "Talk on the history of connexive logic"
+    "title": "Natural Language Inference: for humans and machines",
+    "talk_link": "https://www.youtube.com/watch?v=zCf99I7VMR0",
+    "date": "24 January 2022",
+    "author":"Valeria de Paiva",
+    "author_image": "valeria-de-paiva.png",
+    "author_link": "http://vcvpaiva.github.io/",
+    "description": "A talk about inference in Natural Language"
 },
 
 {"title": "The logic of social influence in networks",
