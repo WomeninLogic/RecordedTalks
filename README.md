@@ -1,4 +1,4 @@
-# Women In Logic Recorded Talks
+# Valeria de Paiva Recorded Talks
 
 A place to keep info about Women in Logic https://www.womeninlogic.org/
 
