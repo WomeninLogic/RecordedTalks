@@ -16,6 +16,15 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "This talk describes Dialectica Petri Nets, suggested by Carolyn Brown. These nets allow for very different labels on edges."},
+    
+    {"title": "Dialectica and Kolmogorov Problems",
+"talk_link": "https://www.youtube.com/watch?v=LxhOSVoyar8",
+"author": "Valeria de Paiva",
+"date": "27 May 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Finding the Right Abstractions Workshop 2021"
+},
 
 {"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
 "talk_link": "https://www.youtube.com/watch?v=7pVo-VlJQHI&t=8s",
