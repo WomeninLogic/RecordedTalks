@@ -6,7 +6,7 @@
     "author":"Valeria de Paiva",
     "author_image": "valeria-de-paiva.png",
     "author_link": "http://vcvpaiva.github.io/",
-    "description": "A talk about inference in Natural Language"
+    "description": "A talk about inference in Natural Language, part of the Berkeley Seminar."
 },
 
 {"title": "Dialectica Petri Nets",
@@ -15,7 +15,7 @@
 "author": "Valeria de Paiva",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "This talk describes Dialectica Petri Nets, suggested by Carolyn Brown. These nets allow for very different labels on edges."},
+"description": "This talk describes  joint work with Elena di Lavore and Wilmer Leal on Dialectica Petri Nets."},
     
     {"title": "Dialectica and Kolmogorov Problems",
 "talk_link": "https://www.youtube.com/watch?v=LxhOSVoyar8",
@@ -32,7 +32,7 @@
 "date": "21 March 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "Carolina Blasio Day"
+"description": "Talk in Portuguese, part of the celebration of Carolina Blasio Day."
 },
 
 {"title": "Going Without: A Linear Modality and FP",
@@ -41,7 +41,7 @@
 "date": "April 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
- "description": "A talk on MSFP on modal types."},
+ "description": "A talk for MSFP on modal type theory."},
 
     {"title": "Entre a cruz e a caldeirinha",
 "talk_link": "https://sites.google.com/view/brasileiras-pln/material",
@@ -49,7 +49,7 @@
 "date": "11 March 2021",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-     "description": "A talk on my career in NLP"},
+     "description": "A talk in Portuguese about my career in NLP, for Brasileiras no PLN."},
 
      {"title": "Tutorial: Constructive Modalities",
 "talk_link": "https://sites.google.com/view/aalogic/aal-conference-2022",
@@ -57,7 +57,7 @@
 "date": "24 June 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A tutorial about my kind of constructive modal logic, based on Curry-Howard."},
+      "description": "A tutorial about my kind of constructive modal logic, based on Curry-Howard, for the Australasian Association of Logic."},
 
      {"title": "Dialectica Categorical Constructions",
 "talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
@@ -65,7 +65,7 @@
 "date": "January 2023",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A talk for JMM2023 that wasn't given after all."},
+      "description": "A talk for JMM2023, which wasn't given by me after all. Thanks Charlotte Aten!"},
 
      {"title": "Relevant Dialectica Categories",
 "talk_link": "https://www.youtube.com/watch?v=HnxUYb4FGzY",
@@ -73,14 +73,14 @@
 "date": "August 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A talk about Dialectica categories for modelling relevant logic."},
+      "description": "A talk about Dialectica categories for modelling relevant logic at the  MIT Category Theory Seminar."},
 
-    {"title": "Semantics and Reasoning for NLP, AI and ACT",
-"talk_link": "https://www.youtube.com/watch?v=b1s7zx4fIIM&list=PLk7u6-nmv4F60ibVfWF2J_XQZmgFKKXCc&index=13",
+    {"title": "Categorical Explicit Substitutions",
+"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
 "author": "Valeria de Paiva",
-"date": "6 October 2021",
+"date": "19 August 2021",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A talk about the applications of category theory."}
+"description": "A categorical model for Explicit Substitutions."}
 
 ]
