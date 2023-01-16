@@ -121,7 +121,14 @@
 "date": "Apr 16, 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A talk about inference in Natural Language, part of the SBL Logicians in Quarentine series."}
+"description": "A talk about inference in Natural Language, part of the SBL Logicians in Quarentine series."},
     
- 
+  {"title": "Benchmarking Linear Logic",
+"talk_link": "https://www.youtube.com/watch?v=g4A1q5PDsq8",
+"author": "Valeria de Paiva",
+"date": "November 4, 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about benchmarking Linear Logic, for the Proof Theory Society."}
+    
 ]
