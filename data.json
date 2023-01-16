@@ -97,7 +97,15 @@
 "date": "11 Feb 2021",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A talk about categorical models of a calculus of explicit substitutions, University of Brasilia."}
+"description": "A talk about categorical models of a calculus of explicit substitutions, University of Brasilia."},
+    
+    {"title": "Adventures in Searchland",
+"talk_link": "https://www.youtube.com/watch?v=yxkHAQitTdg",
+"author": "Valeria de Paiva",
+"date": "20 July 2009",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about search and its challenges, PARC Forum."}
     
  
 ]
