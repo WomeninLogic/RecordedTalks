@@ -113,7 +113,15 @@
 "date": "21 June 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A chat about math and industry, in Portuguese."}
+"description": "A chat about math and industry, in Portuguese."},
+    
+    {"title": "Between a rock and a hard place: Structural and Distributional Meaning Representations",
+"talk_link": "https://www.youtube.com/watch?v=O4zSTV-swF0",
+"author": "Valeria de Paiva",
+"date": "Apr 16, 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about inference in Natural Language, part of the SBL Logicians in Quarentine series."}
     
  
 ]
