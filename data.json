@@ -86,11 +86,18 @@
     {"title": "Dialectica Categories for the Lambek Calculus",
 "talk_link": "https://www.youtube.com/watch?v=6mD2UbK2eNc",
 "author": "Valeria de Paiva",
-"date": "June 26 2020",
+"date": "26 June 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A talk about dialectica models of the Lambek calculus, Logic SuperGroup."}
+"description": "A talk about dialectica models of the Lambek calculus, Logic SuperGroup."},
     
+    {"title": "Categorical Models of Explicit Substitutions",
+"talk_link": "https://www.youtube.com/watch?v=w4tTdai9mTg",
+"author": "Valeria de Paiva",
+"date": "11 Feb 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about categorical models of a calculus of explicit substitutions, University of Brasilia."}
     
-
+ 
 ]
