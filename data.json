@@ -6,7 +6,7 @@
     "author":"Valeria de Paiva",
     "author_image": "valeria-de-paiva.png",
     "author_link": "http://vcvpaiva.github.io/",
-    "description": "A talk about inference in Natural Language, part of the Berkeley Seminar."
+    "description": "A talk about inference in Natural Language, part of the Berkeley Seminar series."
 },
 
 {"title": "Dialectica Petri Nets",
@@ -23,7 +23,7 @@
 "date": "27 May 2021",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "Finding the Right Abstractions Workshop 2021"
+"description": "Talk part of the 'Finding the Right Abstractions' Workshop 2021"
 },
 
 {"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
@@ -32,7 +32,7 @@
 "date": "21 March 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "Talk in Portuguese, part of the celebration of Carolina Blasio Day."
+"description": "Talk in Portuguese, part of the celebrations for Carolina Blasio Day."
 },
 
 {"title": "Going Without: A Linear Modality and FP",
@@ -41,7 +41,7 @@
 "date": "April 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
- "description": "A talk for MSFP on modal type theory."},
+ "description": "A talk for MSFP (MathematicalSemantics of Programming Languages) on modal type theory."},
 
     {"title": "Entre a cruz e a caldeirinha",
 "talk_link": "https://sites.google.com/view/brasileiras-pln/material",
@@ -49,7 +49,7 @@
 "date": "11 March 2021",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-     "description": "A talk in Portuguese about my career in NLP, for Brasileiras no PLN."},
+     "description": "A talk in Portuguese about my career in NLP, for the colective 'Brasileiras no PLN'."},
 
      {"title": "Tutorial: Constructive Modalities",
 "talk_link": "https://sites.google.com/view/aalogic/aal-conference-2022",
@@ -57,7 +57,7 @@
 "date": "24 June 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A tutorial about my kind of constructive modal logic, based on Curry-Howard, for the Australasian Association of Logic."},
+      "description": "A tutorial about my kind of constructive modal logic, based on Curry-Howard, for the Australasian Association of Logic (AAL)."},
 
      {"title": "Dialectica Categorical Constructions",
 "talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
