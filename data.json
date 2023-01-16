@@ -81,6 +81,16 @@
 "date": "19 August 2021",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A categorical model for Explicit Substitutions."}
+"description": "A categorical model for Explicit Substitutions."},
+    
+    {"title": "Dialectica Categories for the Lambek Calculus",
+"talk_link": "https://www.youtube.com/watch?v=6mD2UbK2eNc",
+"author": "Valeria de Paiva",
+"date": "June 26 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about dialectica models of the Lambek calculus, Logic SuperGroup."}
+    
+    
 
 ]
