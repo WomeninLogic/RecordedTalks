@@ -1,4 +1,12 @@
 [
+         {"title": "Dialectica Categorical Constructions",
+"talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
+"author": "Valeria de Paiva",
+"date": "January 2023",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+      "description": "A talk for JMM2023, which wasn't given by me after all. Thanks Charlotte Aten!"},
+
     {
     "title": "Natural Language Inference: for humans and machines",
     "talk_link": "https://www.youtube.com/watch?v=zCf99I7VMR0",
@@ -59,13 +67,6 @@
 "author_link": "http://vcvpaiva.github.io",
       "description": "A tutorial about my kind of constructive modal logic, based on Curry-Howard, for the Australasian Association of Logic (AAL)."},
 
-     {"title": "Dialectica Categorical Constructions",
-"talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
-"author": "Valeria de Paiva",
-"date": "January 2023",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-      "description": "A talk for JMM2023, which wasn't given by me after all. Thanks Charlotte Aten!"},
 
      {"title": "Relevant Dialectica Categories",
 "talk_link": "https://www.youtube.com/watch?v=HnxUYb4FGzY",
