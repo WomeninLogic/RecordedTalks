@@ -1,4 +1,11 @@
-const talkGridView = (data) => {
+const isBigImage = src => new Promise((resolve, reject) => {
+    let img = new Image();
+    img.onload = () => resolve(img.height > 500);
+    img.onerror = reject;
+    img.src = src;
+});
+
+const talkGridView = async (data) => {
 
     let {author = "No Author",
             title = "No Title",
@@ -13,8 +20,20 @@ const talkGridView = (data) => {
             
             video_url_regex = /v=([\w\-\_]+)/;
             video_id_matches = talk_link.match(video_url_regex);
-            video_id = video_id_matches ? video_id_matches[1] : talk_image;
-            talk_image = `https://img.youtube.com/vi/${video_id}/maxresdefault.jpg`;
+            video_id = video_id_matches ? video_id_matches[1] : null;
+
+            let max_res_img = null, hq_default = null;
+
+            if(video_id != null) {
+
+                max_res_img = `https://img.youtube.com/vi/${video_id}/maxresdefault.jpg`;
+                hq_default = `https://img.youtube.com/vi/${video_id}/hqdefault.jpg`;
+
+                 let isImageGood = await isBigImage(max_res_img);
+
+                talk_image = isImageGood ? max_res_img : hq_default;
+
+            };
 
         };
 
@@ -22,8 +41,8 @@ const talkGridView = (data) => {
 
         const avatar = (author_image == null) ? "img/default-avatar.svg" : avatar_dir + author_image;
 
-    return ["div.card",
-        ["a.video-thumbnail", {href: talk_link},
+    return ["a.card.video-card", {href: talk_link},
+         ["div.video-thumbnail", 
             ["img", {alt: `${title}  by ${author} given on ${date}`, src: talk_image}]],
             ["div.date-and-author",
             ["div.title-and-date",
@@ -48,7 +67,7 @@ const render = async () => {
 
     const data = await (await fetch("./data.json")).json();
 
-    z.render("#talk-list", (data != null) ? data.map(d => talkGridView(d)) : ["p", "No talks found!"]);
+    z.render("#talk-list", (data != null) ? await (Promise.all(data.map((d) => talkGridView(d)))) : ["p", "No talks found!"]);
 
 };
 
