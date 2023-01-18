@@ -76,14 +76,6 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
       "description": "A talk about Dialectica categories for modelling relevant logic at the  MIT Category Theory Seminar."},
-
-    {"title": "Categorical Explicit Substitutions",
-"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
-"author": "Valeria de Paiva",
-"date": "19 August 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A categorical model for Explicit Substitutions."},
     
     {"title": "Dialectica Categories for the Lambek Calculus",
 "talk_link": "https://www.youtube.com/watch?v=6mD2UbK2eNc",
@@ -108,6 +100,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about search and its challenges, PARC Forum."},
+         
+          {"title": "Categorical Explicit Substitutions",
+"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
+"author": "Valeria de Paiva",
+"date": "19 August 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A categorical model for Explicit Substitutions."},      
     
     {"title": "Conversa com +1café",
 "talk_link": "https://www.youtube.com/watch?v=SWOqp9jUObE",
