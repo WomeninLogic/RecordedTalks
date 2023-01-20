@@ -12,7 +12,7 @@
 "date": "January 2023",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A talk for the AMS Join Meetings in Mathematics JMM2023. This wasn't given by me, after all. Thanks Charlotte Aten!"},
+      "description": "A talk for the AMS Join Meetings in Mathematics JMM2023. This talk wasn't given. Thanks Charlotte Aten for stepping in for me!"},
          
              {"title": "Dialectica and Kolmogorov Problems",
 "talk_link": "https://www.youtube.com/watch?v=LxhOSVoyar8",
@@ -30,7 +30,7 @@
     "author":"Valeria de Paiva",
     "author_image": "valeria-de-paiva.png",
     "author_link": "http://vcvpaiva.github.io/",
-    "description": "A talk about inference in Natural Language, part of the Berkeley Seminar series."
+    "description": "Inference in Natural Language, Berkeley Seminar series."
 },
 
 {"title": "Dialectica Petri Nets",
