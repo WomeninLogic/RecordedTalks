@@ -1,4 +1,11 @@
-[
+[       {"title": "World Logic Day 2021",
+"talk_link": "https://www.youtube.com/watch?v=P9Q0FeV2jX4",
+"author": "Valeria de Paiva",
+"date": "January, 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "DLMPST celebration of Logic"},
+          
          {"title": "Dialectica Categorical Constructions",
 "talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
 "author": "Valeria de Paiva",
@@ -205,13 +212,6 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "WoLLIC in Puebla, Mexico"},
          
-         {"title": "World Logic Day 2021",
-"talk_link": "https://www.youtube.com/watch?v=P9Q0FeV2jX4",
-"author": "Valeria de Paiva",
-"date": "January, 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "DLMPST celebration of Logic"},
          
           {"title": "Lógicas Brasileiras",
 "talk_link": "https://www.youtube.com/watch?v=hp0XVQnqH68&t=321s",
