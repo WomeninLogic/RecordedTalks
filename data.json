@@ -73,7 +73,7 @@
 "date": "24 June 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A tutorial about constructive modal logics based on Curry-Howard. For the Australasian Association of Logic (AAL)."},
+      "description": "A tutorial about constructive modal logics based on Curry-Howard, for AAL."},
 
 
      {"title": "Relevant Dialectica Categories",
@@ -139,6 +139,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about benchmarking Linear Logic, for the Proof Theory Society."},
+ 
+    {"title": "Dialectica Categories: the mathematical version",
+"talk_link": "https://www.youtube.com/watch?v=GRdrN6L3UCc&t=4s",
+"author": "Valeria de Paiva",
+"date": "5 Dec 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "BACAT meet-up"},
          
           {"title": "From Pure Algebra to Applied Category Theory: a personal journey",
 "talk_link": "https://www.youtube.com/watch?v=8lQgFI5HmX4&list=PLo4jXE-LdDTSBTsTWp4NL-qAdz7g74gKW&index=10&t=1352s",
@@ -156,13 +164,6 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "Encontro Brasileiro de Mulheres Matematicas, IMPA (in Portuguese)."},
          
-         {"title": "Dialectica Categories: the mathematical version",
-"talk_link": "https://www.youtube.com/watch?v=GRdrN6L3UCc&t=4s",
-"author": "Valeria de Paiva",
-"date": "5 Dec 2020",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "BACAT meet-up"},
          
       {"title": "Modal Type theory",
 "talk_link": "https://www.youtube.com/watch?v=PNuWDsc3h1A&t=13s",
