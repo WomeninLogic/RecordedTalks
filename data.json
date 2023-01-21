@@ -22,6 +22,15 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "Talk part of the 'Finding the Right Abstractions' Workshop 2021, Topos Institute."
 },
+ 
+ {"title": "Dialectica Petri Nets",
+"talk_link": "https://www.youtube.com/watch?v=xysbkS3Jx24",
+"date": "8 March 2022",
+"author": "Valeria de Paiva",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "This talk describes  joint work with Elena di Lavore and Wilmer Leal on Dialectica Petri Nets."},
+
 
     {
     "title": "Natural Language Inference: for humans and machines",
@@ -32,14 +41,6 @@
     "author_link": "http://vcvpaiva.github.io/",
     "description": "Inference in Natural Language, Berkeley Seminar."
 },
-
-{"title": "Dialectica Petri Nets",
-"talk_link": "https://www.youtube.com/watch?v=xysbkS3Jx24",
-"date": "8 March 2022",
-"author": "Valeria de Paiva",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "This talk describes  joint work with Elena di Lavore and Wilmer Leal on Dialectica Petri Nets."},
    
 
 {"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
