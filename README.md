@@ -1,6 +1,6 @@
 # Women In Logic Recorded Talks
 
-This github repo, part of the organization (https://github.com/WomeninLogic/), is a place to keep information about logic recorded talks, in behalf of the collective Women in Logic https://www.womeninlogic.org/
+This github repo, part of the organization (https://github.com/WomeninLogic/), is a place to keep information about logic recorded talks, in behalf of the collective Women in Logic https://www.womeninlogic.org/.
 
 <br>
 
