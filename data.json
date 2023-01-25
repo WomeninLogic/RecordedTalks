@@ -15,7 +15,7 @@
       "description": "A talk for the AMS Join Meetings in Mathematics JMM2023. The talk wasn't given, thanks Charlotte Aten for stepping in for me!"},
          
  
- {"title": "Dialectica Petri Nets",
+      {"title": "Dialectica Petri Nets",
 "talk_link": "https://www.youtube.com/watch?v=xysbkS3Jx24",
 "date": "8 March 2022",
 "author": "Valeria de Paiva",
@@ -52,7 +52,7 @@
 },
    
 
-{"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
+      {"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
 "talk_link": "https://www.youtube.com/watch?v=7pVo-VlJQHI&t=8s",
 "author": "Valeria de Paiva",
 "date": "21 March 2022",
@@ -61,7 +61,7 @@
 "description": "Talk in Portuguese, part of the celebrations for Carolina Blasio Day 2022."
 },
 
-{"title": "Going Without: A Linear Modality and FP",
+      {"title": "Going Without: A Linear Modality and FP",
 "talk_link": "https://www.youtube.com/watch?v=7uTsihTketw",
 "author": "Valeria de Paiva",
 "date": "April 2022",
@@ -129,7 +129,7 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about search and its challenges, PARC Forum."},
          
-          {"title": "Categorical Explicit Substitutions",
+     {"title": "Categorical Explicit Substitutions",
 "talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
 "author": "Valeria de Paiva",
 "date": "19 August 2021",
@@ -153,7 +153,7 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about inference in Natural Language, part of the SBL Logicians in Quarentine series."},
     
-  {"title": "Benchmarking Linear Logic",
+    {"title": "Benchmarking Linear Logic",
 "talk_link": "https://www.youtube.com/watch?v=g4A1q5PDsq8",
 "author": "Valeria de Paiva",
 "date": "November 4, 2020",
@@ -169,7 +169,7 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "BACAT meet-up"},
          
-          {"title": "From Pure Algebra to Applied Category Theory: a personal journey",
+      {"title": "From Pure Algebra to Applied Category Theory: a personal journey",
 "talk_link": "https://www.youtube.com/watch?v=8lQgFI5HmX4&list=PLo4jXE-LdDTSBTsTWp4NL-qAdz7g74gKW&index=10&t=1352s",
 "author": "Valeria de Paiva",
 "date": "27 June 2019",
@@ -177,7 +177,7 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about logic and computer science for Encontro Brasileiro de Mulheres Matematicas, IMPA (in Portuguese)."},
          
-         {"title": "Tutoria",
+      {"title": "Tutoria",
 "talk_link": "https://www.youtube.com/watch?v=Zn4Dlt-mfGw&list=PLo4jXE-LdDTSBTsTWp4NL-qAdz7g74gKW&index=17",
 "author": "Jaqueline and Valeria",
 "date": "28 June 2019",
@@ -194,7 +194,7 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "NAT@Logic, Natal, Rio Grande do Norte, Brasil"}, 
          
-         {"title": "GraphKR Semantic Parsing for Portuguese",
+      {"title": "GraphKR Semantic Parsing for Portuguese",
 "talk_link": "https://www.youtube.com/watch?v=lhQP-I2EBB4&t=53s",
 "author": "Valeria de Paiva",
 "date": "1st October 2020",
@@ -232,8 +232,6 @@
 "date": "June, 2016",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "WoLLIC in Puebla, Mexico"},
-         
-
+"description": "WoLLIC in Puebla, Mexico"}
     
 ]
