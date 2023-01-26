@@ -153,6 +153,6 @@
 "date": "28/01/2022",
 "author_image": "marie-kerjean.jpg",
 "author_link": "https://lipn.univ-paris13.fr/~kerjean/",
-"description": "Differential Linear Logic adds to the linear logic the possibility to linearize non-linear proofs. We show how that accounts for the resolution of a differential equation, and extend differential linear logic to linear partial differential equations with constant coefficients. We explain how this result stems from the interpretation of linear logic formulas as reflexive vector spaces."}
-    
+"description": "Differential Linear Logic adds to linear logic the possibility to linearize non-linear proofs."}
+	
 ]
