@@ -145,6 +145,14 @@
 "date": "6 May 2021",
 "author_image": "emily-riehl.png",
 "author_link": "https://emilyriehl.github.io/",
- "description": "This talk explores the notion of contractibility as uniqueness and its role in generalizing from ordinary categories to infinite-dimensional categories."}
+ "description": "This talk explores the notion of contractibility as uniqueness and its role in generalizing from ordinary categories to infinite-dimensional categories."},
+	
+{"title": "Differential linear logic extended to differential operators",
+"talk_link": "https://library.cirm-math.fr/Record.htm?idlist=1&record=19289735124910079179",
+"author": "Marie Kerjean",
+"date": "28/01/2022",
+"author_image": "marie-kerjean.jpg",
+"author_link": "https://lipn.univ-paris13.fr/~kerjean/",
+"description": "Differential Linear Logic adds to the linear logic the possibility to linearize non-linear proofs. We show how that accounts for the resolution of a differential equation, and extend differential linear logic to linear partial differential equations with constant coefficients. We explain how this result stems from the interpretation of linear logic formulas as reflexive vector spaces."}
     
 ]
