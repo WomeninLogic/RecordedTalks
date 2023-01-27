@@ -20,4 +20,6 @@ To contribute a talk to the repo, go to the [data.json](https://github.com/Women
 "description": "Description of the talk."}
 ```
 
-Add author’s image to the `img/` folder and make sure to link to the image under the `author_image` key of the database with the the exact name as you have given in the `img/` folder. Also, make sure that each of the entries you add are separated by a comma in the appropriate JSON format. You can ensure the data you have entered is in the correct format by validating the JSON file by copy pasting it in one of the JSON services like [JSONLint](https://jsonlint.com)
+Add author’s image to the `img/` folder and make sure to link to the image under the `author_image` key of the database with the the exact name as you have given in the `img/` folder. Try to follow the convention for the name of the speaker photo `firstname-lastname.png'. Please don't use numbers only for the date, as conventions are different in the US and the rest of the world.
+
+Also, make sure that each of the entries you add are separated by a comma in the appropriate JSON format. You can ensure the data you have entered is in the correct format by validating the JSON file by copy pasting it in one of the JSON services like [JSONLint](https://jsonlint.com)
