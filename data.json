@@ -76,6 +76,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
       "description": "A tutorial about constructive modal logics based on Curry-Howard, for AAL."},
+ 
+  {"title": "Conversa com +1café",
+"talk_link": "https://www.youtube.com/watch?v=SWOqp9jUObE",
+"author": "Valeria de Paiva",
+"date": "21 June 2022",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A chat about math and industry, in Portuguese."},
 
  
             {"title": "Dialectica and Kolmogorov Problems",
@@ -86,6 +94,14 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "Talk part of the 'Finding the Right Abstractions' Workshop 2021, Topos Institute."
 },
+ 
+      {"title": "Categorical Explicit Substitutions",
+"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
+"author": "Valeria de Paiva",
+"date": "19 August 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A categorical model for Explicit Substitutions."},     
 
     {"title": "Entre a cruz e a caldeirinha",
 "talk_link": "https://www.youtube.com/watch?v=_6RYqObUuL0",
@@ -94,6 +110,32 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
      "description": "Talk in Portuguese about my career in NLP, for the colective 'Brasileiras no PLN'."},
+ 
+    {"title": "Categorical Models of Explicit Substitutions",
+"talk_link": "https://www.youtube.com/watch?v=w4tTdai9mTg",
+"author": "Valeria de Paiva",
+"date": "11 Feb 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about categorical models of a calculus of explicit substitutions, University of Brasilia."},
+ 
+          
+         {"title": "Dialectica Categories for Friends",
+"talk_link": "https://www.youtube.com/watch?v=hJrJSZlO-Ic&t=1196s",
+"author": "Valeria de Paiva",
+"date": "Jun 6, 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Only ten slides on Dialectica categories."},
+ 
+      
+         {"title": "Valeria de Paiva: Lógica e Pesquisadora em Inteligência Artificial",
+"talk_link": "https://www.youtube.com/watch?v=_VpbSRsxLbI&t=2s",
+"author": "Valeria de Paiva",
+"date": "Jun 6, 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Emílias Armação em Bits"},
 
 
 
@@ -112,38 +154,8 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about dialectica models of the Lambek calculus, Logic SuperGroup."},
+ 
     
-    {"title": "Categorical Models of Explicit Substitutions",
-"talk_link": "https://www.youtube.com/watch?v=w4tTdai9mTg",
-"author": "Valeria de Paiva",
-"date": "11 Feb 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A talk about categorical models of a calculus of explicit substitutions, University of Brasilia."},
-    
-    {"title": "Adventures in Searchland",
-"talk_link": "https://www.youtube.com/watch?v=yxkHAQitTdg",
-"author": "Valeria de Paiva",
-"date": "20 July 2009",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A talk about search and its challenges, PARC Forum."},
-         
-     {"title": "Categorical Explicit Substitutions",
-"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
-"author": "Valeria de Paiva",
-"date": "19 August 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A categorical model for Explicit Substitutions."},      
-    
-    {"title": "Conversa com +1café",
-"talk_link": "https://www.youtube.com/watch?v=SWOqp9jUObE",
-"author": "Valeria de Paiva",
-"date": "21 June 2022",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A chat about math and industry, in Portuguese."},
     
     {"title": "Between a rock and a hard place: Structural and Distributional Meaning Representations",
 "talk_link": "https://www.youtube.com/watch?v=O4zSTV-swF0",
@@ -168,6 +180,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "BACAT meet-up"},
+ 
+       {"title": "GraphKR Semantic Parsing for Portuguese",
+"talk_link": "https://www.youtube.com/watch?v=lhQP-I2EBB4&t=53s",
+"author": "Valeria de Paiva",
+"date": "1st October 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "This work extends the Graphical Knowledge Representation (GKR) of Crouch and Kalouli to include distributional features."},
          
       {"title": "From Pure Algebra to Applied Category Theory: a personal journey",
 "talk_link": "https://www.youtube.com/watch?v=8lQgFI5HmX4&list=PLo4jXE-LdDTSBTsTWp4NL-qAdz7g74gKW&index=10&t=1352s",
@@ -184,6 +204,23 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "Encontro Brasileiro de Mulheres Matematicas, IMPA (in Portuguese)."},
+ 
+  {"title": "Mulheres na Matematica",
+"talk_link": "https://www.youtube.com/watch?v=-mUd7L9eW3o&t=100s",
+"author": "Valeria de Paiva",
+"date": "Jul 3, 2019",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "in Portuguese"},
+ 
+          
+         {"title": "Tribute to Sol Feferman",
+"talk_link": "https://www.youtube.com/watch?v=h8pfsLzWjJY&t=63s",
+"author": "Valeria de Paiva",
+"date": "June, 2016",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "WoLLIC in Puebla, Mexico"}
          
          
       {"title": "Modal Type theory",
@@ -193,45 +230,15 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "NAT@Logic, Natal, Rio Grande do Norte, Brasil"}, 
-         
-      {"title": "GraphKR Semantic Parsing for Portuguese",
-"talk_link": "https://www.youtube.com/watch?v=lhQP-I2EBB4&t=53s",
+ 
+     {"title": "Adventures in Searchland",
+"talk_link": "https://www.youtube.com/watch?v=yxkHAQitTdg",
 "author": "Valeria de Paiva",
-"date": "1st October 2020",
+"date": "20 July 2009",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "This work extends the Graphical Knowledge Representation (GKR) of Crouch and Kalouli to include distributional features."},  
-         
-         {"title": "Dialectica Categories for Friends",
-"talk_link": "https://www.youtube.com/watch?v=hJrJSZlO-Ic&t=1196s",
-"author": "Valeria de Paiva",
-"date": "Jun 6, 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "Only ten slides on Dialectica categories."},
-         
-         {"title": "Valeria de Paiva: Lógica e Pesquisadora em Inteligência Artificial",
-"talk_link": "https://www.youtube.com/watch?v=_VpbSRsxLbI&t=2s",
-"author": "Valeria de Paiva",
-"date": "Jun 6, 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "Emílias Armação em Bits"},
-         
-         {"title": "Mulheres na Matematica",
-"talk_link": "https://www.youtube.com/watch?v=-mUd7L9eW3o&t=100s",
-"author": "Valeria de Paiva",
-"date": "Jul 3, 2019",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "in Portuguese"},
-         
-         {"title": "Tribute to Sol Feferman",
-"talk_link": "https://www.youtube.com/watch?v=h8pfsLzWjJY&t=63s",
-"author": "Valeria de Paiva",
-"date": "June, 2016",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "WoLLIC in Puebla, Mexico"}
+"description": "A talk about search and its challenges, PARC Forum."},
+            
+
     
 ]
