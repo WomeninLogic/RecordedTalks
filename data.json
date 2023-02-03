@@ -86,6 +86,14 @@
 "description": "A chat about math and industry, in Portuguese."},
 
  
+      {"title": "Categorical Explicit Substitutions",
+"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
+"author": "Valeria de Paiva",
+"date": "19 August 2021",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A categorical model for Explicit Substitutions."},
+ 
             {"title": "Dialectica and Kolmogorov Problems",
 "talk_link": "https://www.youtube.com/watch?v=LxhOSVoyar8",
 "author": "Valeria de Paiva",
@@ -94,14 +102,7 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "Talk part of the 'Finding the Right Abstractions' Workshop 2021, Topos Institute."
 },
- 
-      {"title": "Categorical Explicit Substitutions",
-"talk_link": "https://www.youtube.com/watch?v=Z_gu1r7LNyc&t=1s",
-"author": "Valeria de Paiva",
-"date": "19 August 2021",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A categorical model for Explicit Substitutions."},     
+      
 
     {"title": "Entre a cruz e a caldeirinha",
 "talk_link": "https://www.youtube.com/watch?v=_6RYqObUuL0",
@@ -146,6 +147,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
       "description": "A talk about Dialectica categories for modelling relevant logic at the  MIT Category Theory Seminar."},
+ 
+      {"title": "Natural Language Inference for Humans",
+"talk_link": "https://gender.dcs.shef.ac.uk/recordings/ValeriadePaiva-NaturalLanguageInferenceForHumans.mp4",
+"author": "Valeria de Paiva",
+"date": "15 July 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+      "description": "A talk about work on knowledge representation for NLI."},
     
     {"title": "Dialectica Categories for the Lambek Calculus",
 "talk_link": "https://www.youtube.com/watch?v=6mD2UbK2eNc",
