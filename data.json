@@ -205,7 +205,7 @@
 "date": "27 June 2019",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A talk about logic and computer science for Encontro Brasileiro de Mulheres Matematicas, IMPA (in Portuguese)."},
+"description": "A talk about logic and computer science for Encontro Brasileiro de Mulheres Matematicas, IMPA."},
          
       {"title": "Tutoria",
 "talk_link": "https://www.youtube.com/watch?v=Zn4Dlt-mfGw&list=PLo4jXE-LdDTSBTsTWp4NL-qAdz7g74gKW&index=17",
@@ -263,8 +263,38 @@
 "date": "July 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "Chat about the Dept of Informatica DI, in Portuguese."}
+"description": "Chat about the Dept of Informatica DI, in Portuguese."},
             
-
+ {"title": "Introduction to Category Theory: Lecture 1",
+"talk_link": "https://www.youtube.com/watch?v=pH0haHFiWLU&t=21s",
+"author": "Valeria de Paiva",
+"date": "July 2012",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Introductory course, 5 lectures at NASSLI 2012, Austin, Texas."},
+            
+ {"title": "Introduction to Category Theory: Lecture 3",
+"talk_link": "https://www.youtube.com/watch?v=7X7kV-UoRTU&t=21s",
+"author": "Valeria de Paiva",
+"date": "July 2012",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Introductory course, 5 lectures at NASSLI 2012, Austin, Texas."},
+ 
+ {"title": "Introduction to Category Theory: Lecture 4",
+"talk_link": "https://www.youtube.com/watch?v=QsaXHsbn4_o&t=33s",
+"author": "Valeria de Paiva",
+"date": "July 2012",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Introductory course, 5 lectures at NASSLI 2012, Austin, Texas."},
+ 
+ {"title": "Introduction to Category Theory: Lecture 5",
+"talk_link": "https://www.youtube.com/watch?v=zfZOiDr0Mxc&t=81s",
+"author": "Valeria de Paiva",
+"date": "July 2012",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Introductory course, 5 lectures at NASSLI 2012, Austin, Texas."}
     
 ]
