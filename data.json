@@ -161,7 +161,7 @@
 "date": "1st October 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "Graphical Knowledge Representation (GKR) with distributional features (Crouch and Kalouli)."},
+"description": "Graphical Knowledge Representation (GKR) with distributional features (with Crouch and Kalouli)."},
  
  
      {"title": "Relevant Dialectica Categories",
@@ -186,7 +186,7 @@
 "date": "26 June 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "A talk about dialectica models of the Lambek calculus, Logic SuperGroup."},
+"description": "A talk about dialectica models of the Lambek calculus for the Logic SuperGroup."},
  
     
     
@@ -267,6 +267,14 @@
             
  {"title": "Introduction to Category Theory: Lecture 1",
 "talk_link": "https://www.youtube.com/watch?v=pH0haHFiWLU&t=21s",
+"author": "Valeria de Paiva",
+"date": "July 2012",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Introductory course, 5 lectures at NASSLI 2012, Austin, Texas."},
+ 
+ {"title": "Introduction to Category Theory: Lecture 2",
+"talk_link": "https://www.youtube.com/watch?v=TEO-Qc4a6Qc&t=14s",
 "author": "Valeria de Paiva",
 "date": "July 2012",
 "author_image": "valeria-de-paiva.png",
