@@ -138,6 +138,32 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about categorical models of a calculus of explicit substitutions, University of Brasilia."},
 
+ 
+    {"title": "Dialectica Categories: the mathematical version",
+"talk_link": "https://www.youtube.com/watch?v=GRdrN6L3UCc&t=4s",
+"author": "Valeria de Paiva",
+"date": "5 Dec 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "BACAT meet-up"},
+ 
+      {"title": "Benchmarking Linear Logic",
+"talk_link": "https://www.youtube.com/watch?v=g4A1q5PDsq8",
+"author": "Valeria de Paiva",
+"date": "November 4, 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "A talk about benchmarking Linear Logic, for the Proof Theory Society."},
+ 
+       {"title": "GraphKR Semantic Parsing for Portuguese",
+"talk_link": "https://www.youtube.com/watch?v=lhQP-I2EBB4&t=53s",
+"author": "Valeria de Paiva",
+"date": "1st October 2020",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+"description": "Extending the Graphical Knowledge Representation (GKR) of Crouch and Kalouli with distributional features."},
+ 
+ 
      {"title": "Relevant Dialectica Categories",
 "talk_link": "https://www.youtube.com/watch?v=HnxUYb4FGzY",
 "author": "Valeria de Paiva",
@@ -172,29 +198,6 @@
 "author_link": "http://vcvpaiva.github.io",
 "description": "A talk about inference in Natural Language, part of the SBL Logicians in Quarentine series."},
     
-    {"title": "Benchmarking Linear Logic",
-"talk_link": "https://www.youtube.com/watch?v=g4A1q5PDsq8",
-"author": "Valeria de Paiva",
-"date": "November 4, 2020",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "A talk about benchmarking Linear Logic, for the Proof Theory Society."},
- 
-    {"title": "Dialectica Categories: the mathematical version",
-"talk_link": "https://www.youtube.com/watch?v=GRdrN6L3UCc&t=4s",
-"author": "Valeria de Paiva",
-"date": "5 Dec 2020",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "BACAT meet-up"},
- 
-       {"title": "GraphKR Semantic Parsing for Portuguese",
-"talk_link": "https://www.youtube.com/watch?v=lhQP-I2EBB4&t=53s",
-"author": "Valeria de Paiva",
-"date": "1st October 2020",
-"author_image": "valeria-de-paiva.png",
-"author_link": "http://vcvpaiva.github.io",
-"description": "Extending the Graphical Knowledge Representation (GKR) of Crouch and Kalouli with distributional features."},
          
       {"title": "From Pure Algebra to Applied Category Theory: a personal journey",
 "talk_link": "https://www.youtube.com/watch?v=8lQgFI5HmX4&list=PLo4jXE-LdDTSBTsTWp4NL-qAdz7g74gKW&index=10&t=1352s",
