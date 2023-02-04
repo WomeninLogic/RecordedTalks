@@ -37,7 +37,7 @@
 "date": "April 2022",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
- "description": "Invited talk at MSFP (Mathematical Semantics of Programming Languages)."},
+ "description": "Invited talk at MSFP (Mathematically Structured Functional Programming)."},
 
          
        {"title": "Dialectica e os Problemas de Kolmogorov-Veloso",
@@ -161,7 +161,7 @@
 "date": "1st October 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-"description": "Extending the Graphical Knowledge Representation (GKR) of Crouch and Kalouli with distributional features."},
+"description": "Graphical Knowledge Representation (GKR) with distributional features (Crouch and Kalouli)."},
  
  
      {"title": "Relevant Dialectica Categories",
@@ -178,7 +178,7 @@
 "date": "15 July 2020",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A talk about work on knowledge representation for NLI."},
+      "description": "A talk about work on knowledge representation for NLI, for +women@DCS Sheffield."},
     
     {"title": "Dialectica Categories for the Lambek Calculus",
 "talk_link": "https://www.youtube.com/watch?v=6mD2UbK2eNc",
