@@ -6,6 +6,8 @@ This github repo, part of the organization (https://github.com/WomeninLogic/), i
 
 This repo updates the webpage in https://womeninlogic.github.io/RecordedTalks/, a curation of previously recorded talks by women in logic, considered broadly.
 
+The design and coding are the work of Prathyush, many thanks!
+
 ## Contributing
 
 To contribute a talk to the repo, go to the [data.json](https://github.com/WomeninLogic/RecordedTalks/blob/main/data.json) file and add an entry with the following details:
