@@ -5,6 +5,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "2 min video for DLMPST's celebration of  World Logic Day 2021."},
+ 
+  {"title": "Dialectica Comonoids",
+"talk_link": "https://www.youtube.com/watch?v=Pu3z-ZH0Ksw",
+"author": "Valeria de Paiva",
+"date": "February 2023",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+      "description": "A talk at the University of Denver Algebra and Logic Seminar. Thanks Charlotte for the invitation!"},
           
          {"title": "Dialectica Categorical Constructions",
 "talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
@@ -12,7 +20,7 @@
 "date": "January 2023",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A talk for the AMS Join Meetings in Mathematics JMM2023. The talk wasn't given, thanks Charlotte Aten for stepping in for me!"},
+      "description": "A talk for the AMS Join Meetings in Mathematics JMM2023. The talk wasn't given at Boston, thanks Charlotte Aten for stepping in for me!"},
  
        {"title": "Tutorial: Constructive Modalities",
 "talk_link": "https://www.youtube.com/watch?v=hbf-tGjxRQQ",
