@@ -5,6 +5,14 @@
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
 "description": "2 min video for DLMPST's celebration of  World Logic Day 2021."},
+
+ {"title": "Dialectica and Godel Doctrines",
+"talk_link": "https://www.youtube.com/watch?v=vSn7xOrfd9g",
+"author": "Valeria de Paiva",
+"date": "March 2023",
+"author_image": "valeria-de-paiva.png",
+"author_link": "http://vcvpaiva.github.io",
+      "description": "Talk at the 2nd Brazilian Meeting of Category Theory, starts  3:30 min into the recording."},
  
   {"title": "Dialectica Comonoids",
 "talk_link": "https://www.youtube.com/watch?v=Pu3z-ZH0Ksw",
@@ -12,7 +20,7 @@
 "date": "February 2023",
 "author_image": "valeria-de-paiva.png",
 "author_link": "http://vcvpaiva.github.io",
-      "description": "A talk at the University of Denver Algebra and Logic Seminar. Thanks Charlotte for the invitation!"},
+      "description": "A talk at the University of Denver Algebra and Logic Seminar. Thanks, Charlotte for the invitation!"},
           
          {"title": "Dialectica Categorical Constructions",
 "talk_link": "https://www.youtube.com/watch?v=Ss7ndVHAbsQ&t=13s",
