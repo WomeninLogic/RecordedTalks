@@ -154,5 +154,13 @@
 "author_image": "marie-kerjean.jpeg",
 "author_link": "https://lipn.univ-paris13.fr/~kerjean/",
 "description": "Differential Linear Logic adds to linear logic the possibility to linearize non-linear proofs."}
+
+{"title": "Combinatorial Properties of the Weisfeiler-Leman Algorithm",
+"talk_link": "https://www.youtube.com/watch?v=U4HCBn5av6s",
+"author": "Sandra Kiefer",
+"date": "9 Nov 2016",
+"author_image": "sandra-kiefer.jpg",
+"author_link": "https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/dr-sandra-kiefer/",
+"description": "Discusses state of the art bounds on the ubiquitous Weisfeiler-Leman algorithm for Graph Isomorphism."}
 	
 ]
