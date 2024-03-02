@@ -6,7 +6,7 @@ This github repo, part of the organization (https://github.com/WomeninLogic/), i
 
 This repo updates the webpage in https://womeninlogic.github.io/RecordedTalks/, a curation of previously recorded talks by women in logic, considered broadly.
 
-The design and coding are the work of Prathyush, many thanks!
+The design and coding are the work of Prathyush (https://github.com/prathyvsh), many thanks indeed!
 
 ## Contributing
 
