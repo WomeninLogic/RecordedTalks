@@ -161,6 +161,14 @@
 "date": "9 Nov 2016",
 "author_image": "sandra-kiefer.jpg",
 "author_link": "https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/dr-sandra-kiefer/",
-"description": "Discusses state of the art bounds on the ubiquitous Weisfeiler-Leman algorithm for Graph Isomorphism."}
+"description": "Discusses state of the art bounds on the ubiquitous Weisfeiler-Leman algorithm for Graph Isomorphism."},
+
+{"title": "A categorical semantics for neural networks",
+"talk_link": "https://www.youtube.com/watch?v=FKkpVKuspmA",
+"author": "Charlotte Aten",
+"date": "29 Nov 2023",
+"author_image": "charlotte-aten.jpg",
+"author_link": "https://aten.cool/",
+"description": "How category theory (multicategories), universal algebra (multiclones), and model theory (structures) can come together to give a clean and clear logico-structuralist understanding of neural networks."}
 	
 ]
