@@ -169,7 +169,14 @@
 "date": "9 Nov 2016",
 "author_image": "sandra-kiefer.jpg",
 "author_link": "https://www.jesus.ox.ac.uk/about-jesus-college/our-community/people/dr-sandra-kiefer/",
-"description": "Discusses state of the art bounds on the ubiquitous Weisfeiler-Leman algorithm for Graph Isomorphism."}
+"description": "Discusses state of the art bounds on the ubiquitous Weisfeiler-Leman algorithm for Graph Isomorphism."},
 
-	
+{"title": "Introduction to categorical logic, classifying toposes and the «bridge» technique",
+"talk_link": "https://www.youtube.com/watch?v=MNuaHchtrUw",
+"author": "Olivia Caramello",
+"date": "3 Dec 2015",
+"author_image": "https://www.oliviacaramello.com/images/PhotoOliviaCaramelloTableauCut.jpg",
+"author_link": "https://www.oliviacaramello.com/Research/Research.htm",
+"description": "First in a four-part course on first-order categorical logic, classifying toposes, and the topos as «bridge» technique."},
+
 ]
