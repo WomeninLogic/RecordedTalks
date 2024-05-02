@@ -16,7 +16,15 @@
     "author_link": "https://sluckelman.webspace.durham.ac.uk/",
     "description": "Talk on the history of connexive logic"
 },
-
+	
+{"title": "Ecumenical systems: from natural deduction with stoup to pure modal systems",
+"talk_link": "https://www.youtube.com/watch?v=sgfNpBTjSeU",
+"author": "Elaine Pimentel",
+"date": "19 April 2022",
+"author_image": "elaine-pimentel.png",
+"author_link": "https://sites.google.com/site/elainepimentel/",
+ "description": "A talk on an approach adapting Girard’s stoup mechanism to natural deduction."},
+	
 {"title": "The logic of social influence in networks",
 "talk_link": "https://www.youtube.com/watch?v=pY2m_nSDkEQ",
 "date": "17 March 2022",
@@ -25,7 +33,42 @@
 "author_link": "https://zoechristoff.com",
 "description": "This talk gives an introduction to the use of logical tools in understanding social influence and social networks phenomena."},
 
-{"title": "Contextual Types, Explained",
+	     {"title": "Lessons from failing distributive laws",
+"talk_link": "https://www.youtube.com/watch?v=pJW7dcNYjsM",
+"author": "Maaike Zwart",
+"date": "31 March 2022",
+"author_image": "maaike-zwart.png",
+"author_link": "https://maaikezwart.com",
+      "description": "A talk about the tricky business of composing monads via distributive laws."},
+
+	     {"title": "Introduction to bidirectionality",
+"talk_link": "https://www.youtube.com/watch?v=wKwDCi9zN08",
+"author": "Perdita Stevens",
+"date": "17 May 2022",
+"author_image": "perdita-stevens.png",
+"author_link": "http://perditastevens.com/homepage/",
+      "description": "A talk in the Model-Driven Engineering (MDE) network about bidirectional transformations."},
+
+
+	     {"title": "The New Era of Formalised Mathematics and the ALEXANDRIA Project",
+"talk_link": "https://www.youtube.com/watch?v=084UXiJvFfY",
+"author": "Angeliki Koutsoukou Argyraki",
+"date": "6 October 2022",
+"author_image": "angeliki-koutsoukou-argyraki.png",
+"author_link": "https://www.cl.cam.ac.uk/~ak2110",
+      "description": "A talk about the formalisation of mathematics with proof assistants, especially Isabelle."},
+
+	    {"title": "From Computers to Diagrams and Back",
+"talk_link": "https://www.youtube.com/watch?v=b1s7zx4fIIM&list=PLk7u6-nmv4F60ibVfWF2J_XQZmgFKKXCc&index=13",
+"author": "Gisele Secco",
+"date": "6 October 2021",
+"author_image": "gisele-secco.png",
+"author_link": "https://www.cl.cam.ac.uk/~ak2110",
+     "description": "A talk about the philosophical aspects of the  formalisation of the 4-color theorem."},
+
+
+	
+	{"title": "Contextual Types, Explained",
 "talk_link": "https://www.youtube.com/watch?v=_rLozbg4PvI",
 "author": "Brigitte Pientka",
 "date": "10 July 2020",
@@ -34,13 +77,14 @@
 "description": "Talk on contextual types"
 },
 
-{"title": "Ecumenical systems: from natural deduction with stoup to pure modal systems",
-"talk_link": "https://www.youtube.com/watch?v=sgfNpBTjSeU",
-"author": "Elaine Pimentel",
-"date": "19 April 2022",
-"author_image": "elaine-pimentel.png",
-"author_link": "https://sites.google.com/site/elainepimentel/",
- "description": "A talk on an approach adapting Girard’s stoup mechanism to natural deduction."},
+	     {"title": "Randomness and computability theory",
+"talk_link": "https://www.youtube.com/watch?v=FIwzWukmlcE",
+"author": "Johanna Franklin",
+"date": "9 July 2020",
+"author_image": "johanna-franklin.png",
+"author_link": "http://johannafranklin.net",
+      "description": "A talk about how computability provides us with a framework for formalizing our intuitions about randomness."},
+
 
     {"title": "Unveiling the constructive core of classical theories: 90 years of Glivenko’s theorem",
 "talk_link": "https://www.youtube.com/watch?v=osoRkOFKSL8&t=40s",
@@ -50,38 +94,16 @@
 "author_link": "https://sites.google.com/site/elainepimentel/",
      "description": "A talk on Glivenko-style results: results for which classical provability yields intuitionistic provability."},
 
-     {"title": "Lessons from failing distributive laws",
-"talk_link": "https://www.youtube.com/watch?v=pJW7dcNYjsM",
-"author": "Maaike Zwart",
-"date": "31 March 2022",
-"author_image": "maaike-zwart.png",
-"author_link": "https://maaikezwart.com",
-      "description": "A talk about the tricky business of composing monads via distributive laws."},
-
-     {"title": "Randomness and computability theory",
-"talk_link": "https://www.youtube.com/watch?v=FIwzWukmlcE",
-"author": "Johanna Franklin",
-"date": "9 July 2020",
-"author_image": "johanna-franklin.png",
-"author_link": "http://johannafranklin.net",
-      "description": "A talk about how computability provides us with a framework for formalizing our intuitions about randomness."},
-
-     {"title": "The New Era of Formalised Mathematics and the ALEXANDRIA Project",
-"talk_link": "https://www.youtube.com/watch?v=084UXiJvFfY",
-"author": "Angeliki Koutsoukou Argyraki",
-"date": "6 October 2022",
-"author_image": "angeliki-koutsoukou-argyraki.png",
-"author_link": "https://www.cl.cam.ac.uk/~ak2110",
-      "description": "A talk about the formalisation of mathematics with proof assistants, especially Isabelle."},
-
-    {"title": "From Computers to Diagrams and Back",
-"talk_link": "https://www.youtube.com/watch?v=b1s7zx4fIIM&list=PLk7u6-nmv4F60ibVfWF2J_XQZmgFKKXCc&index=13",
-"author": "Gisele Secco",
-"date": "6 October 2021",
-"author_image": "gisele-secco.png",
-"author_link": "https://www.cl.cam.ac.uk/~ak2110",
-     "description": "A talk about the philosophical aspects of the  formalisation of the 4-color theorem."},
-
+	
+	{"title": "Mechanized Metatheory - The Next Chapter",
+"talk_link": "https://www.youtube.com/watch?v=3UilZDu6Jpc",
+"author": "Brigitte Pientka",
+"date": "18 Jan 2019",
+"author_image": "brigitte-pientka.png",
+"author_link": "https://www.cs.mcgill.ca/~bpientka/",
+"description": "Invited POPL2019 talk"
+},
+	
         {"title": "Thinking about thinking about thinking",
 "talk_link": "https://www.youtube.com/watch?v=A-7a6smaQks",
 "author": "Rineke Verbrugge",
@@ -89,14 +111,6 @@
 "author_image": "rineke-verbrugge.png",
 "author_link": "https://scholar.google.com/citations?user=p6lcxiMAAAAJ&hl=en&oi=ao",
 	 "description": "A talk about research related to thinking about thinking about thinking."},
-
-     {"title": "Introduction to bidirectionality",
-"talk_link": "https://www.youtube.com/watch?v=wKwDCi9zN08",
-"author": "Perdita Stevens",
-"date": "17 May 2022",
-"author_image": "perdita-stevens.png",
-"author_link": "http://perditastevens.com/homepage/",
-      "description": "A talk in the Model-Driven Engineering (MDE) network about biderectional transformations."},
 
         {"title": "An algebraic framework to reason about concurrency",
 "talk_link": "https://www.youtube.com/watch?v=uqMQGL2TBEo",
@@ -178,5 +192,6 @@
 "author_image": "olivia-caramello.jpg",
 "author_link": "https://www.oliviacaramello.com/Research/Research.htm",
 "description": "Part course on categorical logic, classifying toposes, and the topos as «bridge» technique."}
+
 
 ]
