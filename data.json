@@ -1,4 +1,13 @@
 [
+ {"title": "Women in Logic Online: Network Mathematics",
+"talk_link": "https://www.youtube.com/watch?v=SE5vIeBEGWI",
+"author": "Valeria de Paiva",
+"date": "20 March 2024",
+"author_image": "valeria-depaiva.jpg",
+"author_link": "http://vcvpaiva.github.io/",
+"description": "WiL newest forum, a talk about making maths accessible."
+ },
+	
  {"title": "A categorical semantics for neural networks",
 "talk_link": "https://www.youtube.com/watch?v=FKkpVKuspmA",
 "author": "Charlotte Aten",
