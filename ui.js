@@ -1,11 +1,4 @@
-const isBigImage = src => new Promise((resolve, reject) => {
-    let img = new Image();
-    img.onload = () => resolve(img.height > 500);
-    img.onerror = reject;
-    img.src = src;
-});
-
-const talkGridView = async (data) => {
+const talkGridView = (data) => {
 
     let {author = "No Author",
             title = "No Title",
@@ -16,6 +9,41 @@ const talkGridView = async (data) => {
             author_link = "#",
         description = "No description provided"} = data;
 
+        const sanitize = str => str.replaceAll(/[^a-zA-Z0-9 -]/g, "").replaceAll(" ", "-").toLowerCase();
+
+        const buildIdentifier = ({title, author}) => sanitize(title) + sanitize(author);
+
+        const id = buildIdentifier(data);
+
+        const avatar_dir = "img/avatars/";
+
+        const avatar = (author_image == null) ? "img/default-avatar.svg" : avatar_dir + author_image;
+
+    return {id, talk_link, view: ["a.card.video-card", {id},
+         ["div.video-thumbnail", 
+            ["img", {alt: `${title}  by ${author} given on ${date}`, src: talk_image}]],
+            ["div.date-and-author",
+            ["div.title-and-date",
+            ["a.talk-link", {href: talk_link}, ["h3.title", title]],
+                ["time", date]],
+                ["a.author", {href: author_link},
+                ["div.avatar", ["img", {src: avatar, alt: `Portrait of ${author}`}]],
+                ["p", author]]],
+                ["p.description", description]]};
+
+};
+
+const isBigImage = src => new Promise((resolve, reject) => {
+    let img = new Image();
+    img.onload = () => resolve(img.height > 500);
+    img.onerror = reject;
+    img.src = src;
+});
+
+const setImage = async ({id, talk_link}) => {
+
+    let talk_image = "img/cover-art.svg";
+        
         if(talk_link) {
             
             video_url_regex = /v=([\w\-\_]+)/;
@@ -35,25 +63,12 @@ const talkGridView = async (data) => {
 
             };
 
+
+            document.querySelector("#" + id + " img").src = talk_image;
+
         };
 
-        const avatar_dir = "img/avatars/";
-
-        const avatar = (author_image == null) ? "img/default-avatar.svg" : avatar_dir + author_image;
-
-    return ["a.card.video-card", {href: talk_link},
-         ["div.video-thumbnail", 
-            ["img", {alt: `${title}  by ${author} given on ${date}`, src: talk_image}]],
-            ["div.date-and-author",
-            ["div.title-and-date",
-            ["a.talk-link", {href: talk_link}, ["h3.title", title]],
-                ["time", date]],
-                ["a.author", {href: author_link},
-                ["div.avatar", ["img", {src: avatar, alt: `Portrait of ${author}`}]],
-                ["p", author]]],
-                ["p.description", description]];
-
-};
+    }
 
 /* Toggle List or Grid Mode */
 
@@ -67,7 +82,11 @@ const render = async () => {
 
     const data = await (await fetch("./data.json")).json();
 
-    z.render("#talk-list", (data != null) ? await (Promise.all(data.map((d) => talkGridView(d)))) : ["p", "No talks found!"]);
+    const views = data.map((d) => talkGridView(d));
+
+    z.render("#talk-list", (data != null) ? views.map(x => x.view) : ["p", "No talks found!"]);
+
+    views.map(x => setImage(x));
 
 };
 
