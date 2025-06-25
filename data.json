@@ -1,8 +1,18 @@
-[ {"title": "Explanatory Proofs: From Logic to Mathematics",
+[ {"title": "Logic and Computation of Social Behavior",
+"talk_link": "https://www.youtube.com/watch?v=Ka2P0TQ3vKs",
+"author": "Sonja Smets",
+"date": "19 Mar 2025",
+"author_image": "sonja-smets.png",
+"author_link": "https://sites.google.com/site/thesonjasmetssite/",
+"description": "Fourth WiL Online."
+},
+	
+	
+{"title": "Explanatory Proofs: From Logic to Mathematics",
 "talk_link": "https://www.youtube.com/watch?v=Ka2P0TQ3vKs",
 "author": "Francesca Poggiolesi",
 "date": "24 Jan 2025",
-"author_image": "laura-kovacs.jpg",
+"author_image": "sonja-kovacs.jpg",
 "author_link": "https://sites.google.com/site/poggiolesi/home",
 "description": "Third WiL Online."
 },
