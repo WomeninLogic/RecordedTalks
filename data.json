@@ -17,6 +17,14 @@
 "description": "Third WiL Online."
 },
 	
+{"title": "Why Logic Matters",
+"talk_link": "https://www.youtube.com/watch?v=rMSJFee_lks&list=PLbEJNppcCD6XDh2ir22SHjByf_BsoCjGL&index=19",
+"author": "Sara L. Uckelman",
+"date": "7 January 2025",
+"author_image": "sara-uckelman.png",
+"author_link": "https://sluckelman.webspace.durham.ac.uk",
+"description": "World Logic Day 2025"},
+	
 	
 {"title": "Automating Game Reasoning in Blockchain Security",
 "talk_link": "https://www.youtube.com/watch?v=Ka2P0TQ3vKs",
@@ -26,6 +34,14 @@
 "author_link": "http://lkovacs.com/",
 "description": "Second WiL Online."
 },
+
+{"title": "Why the History of Logic Should Matter to Modern Logicians",
+"talk_link": "https://www.youtube.com/watch?v=LHaW_TtXYWw&list=PLbEJNppcCD6XDh2ir22SHjByf_BsoCjGL&index=13",
+"author": "Sara L. Uckelman",
+"date": "7 May 2024",
+"author_image": "sara-uckelman.png",
+"author_link": "https://sluckelman.webspace.durham.ac.uk",
+"description": "The starting point of this talk is the present-day state of logic."},
 	
  {"title": "Women in Logic Online: Network Mathematics",
 "talk_link": "https://www.youtube.com/watch?v=SE5vIeBEGWI",
@@ -44,6 +60,15 @@
 "author_link": "https://aten.cool/",
 "description": "Category theory (multicategories), universal algebra (multiclones), and model theory (structures) for understanding neural networks."
  },
+
+{"title": "Division for the History of Science and Technology - Session #13: 'What Can the History of Logic Tell Us About the Future of Logic?' ",
+"talk_link": "https://www.youtube.com/watch?v=srz3Y2Q8V8Y&list=PLbEJNppcCD6XDh2ir22SHjByf_BsoCjGL&index=12",
+"author": "Sara L. Uckelman",
+"date": "29 September 2023",
+"author_image": "sara-uckelman.png",
+"author_link": "https://sluckelman.webspace.durham.ac.uk",
+"description": "A talk discussing what the history of logic can tell us about the future of logic"},
+
 	
 {"title": "Some reflections on the history of connexive logic",
     "talk_link": "https://www.youtube.com/watch?v=U1gQterS0bE",
