@@ -1,7 +1,15 @@
-[ {"title": "Axioms as Rules in Intuitionistic Logic",
+[ {"title": "Learning and Belief Revision: an Overview",
+"talk_link": "https://www.youtube.com/watch?v=LHbwslggM3U",
+"author": "Nina Gierasimczuk",
+"date": "Sep 16, 2025",
+"author_image": "nina-gierasimczuk.png",
+"author_link": "https://ninagierasimczuk.com/",
+"description": "Sixth WiL Online"},
+	
+	{"title": "Axioms as Rules in Intuitionistic Logic",
 "talk_link": "https://www.youtube.com/watch?v=w1UHrheep9Y",
 "author": "Sara Negri",
-"date": "27 Mar 2025",
+"date": "27 May 2025",
 "author_image": "sara-negri.png",
 "author_link": "https://sites.google.com/view/saranegri/home",
 "description": "Fifth WiL Online"},
@@ -14,8 +22,7 @@
 "author_link": "https://sites.google.com/site/thesonjasmetssite/",
 "description": "Fourth WiL Online."
 },
-	
-	
+		
 {"title": "Explanatory Proofs: From Logic to Mathematics",
 "talk_link": "https://www.youtube.com/watch?v=T0lSkqYMInU",
 "author": "Francesca Poggiolesi",
