@@ -41,14 +41,6 @@
 "author_link": "http://lkovacs.com/",
 "description": "Second WiL Online."
 },
-
-{"title": "Why the History of Logic Should Matter to Modern Logicians",
-"talk_link": "https://www.youtube.com/watch?v=LHaW_TtXYWw&list=PLbEJNppcCD6XDh2ir22SHjByf_BsoCjGL&index=13",
-"author": "Sara L. Uckelman",
-"date": "7 May 2024",
-"author_image": "sara-uckelman.png",
-"author_link": "https://sluckelman.webspace.durham.ac.uk",
-"description": "The starting point of this talk is the present-day state of logic."},
 	
  {"title": "Women in Logic Online: Network Mathematics",
 "talk_link": "https://www.youtube.com/watch?v=SE5vIeBEGWI",
@@ -58,6 +50,14 @@
 "author_link": "http://vcvpaiva.github.io/",
 "description": "WiL newest forum, a talk about making maths accessible."
  },
+
+	{"title": "Why the History of Logic Should Matter to Modern Logicians",
+"talk_link": "https://www.youtube.com/watch?v=LHaW_TtXYWw&list=PLbEJNppcCD6XDh2ir22SHjByf_BsoCjGL&index=13",
+"author": "Sara L. Uckelman",
+"date": "7 May 2024",
+"author_image": "sara-uckelman.png",
+"author_link": "https://sluckelman.webspace.durham.ac.uk",
+"description": "The starting point of this talk is the present-day state of logic."},
 	
  {"title": "A categorical semantics for neural networks",
 "talk_link": "https://www.youtube.com/watch?v=FKkpVKuspmA",
